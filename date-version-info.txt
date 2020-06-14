@@ -1,0 +1,5 @@
+This is the original version. 
+Demonstrated in final thesis defense. 
+Run maximum input classes in this project.
+
+*** LCOM added (october 2019, version: v3, added to original: 15/06/2020)

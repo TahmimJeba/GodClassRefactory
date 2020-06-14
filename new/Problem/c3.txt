@@ -1,0 +1,14 @@
+DurationImpl -> Class0 = 0.6769147757158338
+				Class1 = 0.97
+				Class2 = 0.94
+				Class3 = 0.5401072697194347
+
+GanttTaskPropertiesBean --> Class0 = 0.6336535170933772
+							Class1 = 0.4646856621351477
+							Class2 = 0.9918117068797953
+
+TaskImpl -> Class0 = 0.99
+			Class1 = 0.8358873844766433
+
+NonValidatingConfiguration ---> Class0 = 0.6734942173682159
+								Class1 = 

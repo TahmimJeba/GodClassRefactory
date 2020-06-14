@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-collections4-4.1-javadoc"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/javaparser-core-3.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/javaparser-core-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/GodClassPartition/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/GodClassPartition/lib/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/GodClassPartition/lib/commons-io-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/GodClassPartition/lib/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/GodClassPartition/lib/javaparser-core-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/GodClassPartition/lib/javaparser-core-3.1.2-sources.jar"/>
+	<classpathentry kind="output" path="out/production/GodClassPartition"/>
+</classpath>
